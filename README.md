@@ -1,2 +1,2 @@
 # Assesment
-LYK 2015 Assesment Java Example
+LYK 2015 Assessment Java Example
