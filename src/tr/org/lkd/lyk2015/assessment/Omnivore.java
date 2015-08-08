@@ -1,4 +1,4 @@
-package tr.org.lkd.lyk2015.assesment;
+package tr.org.lkd.lyk2015.assessment;
 
 
 public interface Omnivore extends Carnivore, Herbivore{
